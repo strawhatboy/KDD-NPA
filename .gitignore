@@ -1,0 +1,5 @@
+*.npy
+*.dict
+*.csv
+tensorlog
+__pycache__
